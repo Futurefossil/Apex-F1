@@ -1,0 +1,6 @@
+{
+  "name": "Apex F1 — 3D Formula 1 Engineering Studio",
+  "description": "Interactive 3D Formula 1 car showcase featuring procedural ground-effect aerodynamics, exploded assembly view, wind-tunnel airflow streamlines, DRS actuation, and custom liveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
